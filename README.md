@@ -1,2 +1,1 @@
-# eonshell
-Manage your computer with other devices (Web UI &amp; Shell).
+manage your pc through your phone, tablet or any other device.
